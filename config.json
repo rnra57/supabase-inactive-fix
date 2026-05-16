@@ -1,8 +1,14 @@
 [
   {
-    "name": "MyProject",
+    "name": "Cardled-Prod",
     "supabase_url": "https://tsgtgpnskzhnikygineq.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Cardled-Desenv",
+    "supabase_url": "https://gdpzwvwtbfpvrglbagbb.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
     "table_name": "keep-alive"
   }
 ]
